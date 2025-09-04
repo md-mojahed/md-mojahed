@@ -33,6 +33,7 @@ With over 4 years of experience, I specialize in developing robust and scalable 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-0175C2?style=flat&logo=go&logoColor=white)
 
 ### Frameworks & Libraries
 
